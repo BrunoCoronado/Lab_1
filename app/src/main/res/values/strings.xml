@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cafe del Dia</string>
+    <string name="txt_Pregunta">¿Cuantas tazasde cafe desea?</string>
+    <string name="txt_NumeroDeTazas">Numero de tazas</string>
+</resources>
